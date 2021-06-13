@@ -1,0 +1,13 @@
+if u find error break for specia verion use this apt-get install gcc-9-base libgcc-9-dev libc6-dev
+sudo apt-get install python3-pip
+pip3 install netmiko
+
+
+PIP (Netmiko, NAPALM)
+•	apt update
+•	apt upgrade
+•	apt-get install python3-pip
+•	pip3 install pip -U
+•	pip3.5 install netmiko
+•	pip3.5 install napalm
+•	note # if u configured pass for enable don't forget to pass 'secret':'ur password' in the dictionary
